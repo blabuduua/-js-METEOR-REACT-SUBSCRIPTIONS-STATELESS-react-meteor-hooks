@@ -1,3 +1,7 @@
+Скопировать репозиторий по ссылке
+из его пакетов скопировать react-meteor-hooks
+и вставить в нужный проект
+
 This is a simple proposal for how an API could look like that is using
 react hooks.
 
