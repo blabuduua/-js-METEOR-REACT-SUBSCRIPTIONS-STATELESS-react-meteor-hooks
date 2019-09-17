@@ -22,5 +22,10 @@ Then run the example
 meteor npm install
 meteor
 ```
+```
+meteor update --patch
 meteor npm install --save react react-addons-pure-render-mixin
+```
 meteor add react-meteor-data
+```
+npm update
